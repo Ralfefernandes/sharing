@@ -45,5 +45,5 @@ This is the HTML code for the homepage banner. The banner is a slideshow that di
         </ul>
     </div>
 </div>
-resources/views/components/home-page-header.blade.php
 ```
+This code is located at: ``` resources/views/components/home-page-header.blade.php ```
