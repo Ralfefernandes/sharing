@@ -1,4 +1,5 @@
-# resources/views/components/home-page-header.blade.php
+# Homepage Banner HTML Code
+
 This is the HTML code for the homepage banner. The banner is a slideshow that displays different images and text.
 ```
 <div>
@@ -44,4 +45,5 @@ This is the HTML code for the homepage banner. The banner is a slideshow that di
         </ul>
     </div>
 </div>
+resources/views/components/home-page-header.blade.php
 ```
