@@ -1,4 +1,4 @@
-# Homepage Banner HTML Code
+# resources/views/components/home-page-header.blade.php
 This is the HTML code for the homepage banner. The banner is a slideshow that displays different images and text.
 ```
 <div>
