@@ -1,8 +1,7 @@
 # Homepage Banner HTML Code
 This is the HTML code for the homepage banner. The banner is a slideshow that displays different images and text.
-
-'<div>
-
+```
+<div>
     <div class="flexslider" >
         <ul class="slides">
             @if(isset($homepageBanner))
@@ -44,4 +43,5 @@ This is the HTML code for the homepage banner. The banner is a slideshow that di
 
         </ul>
     </div>
-</div>'
+</div>
+```
