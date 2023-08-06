@@ -162,4 +162,4 @@ class HomePageHeader extends Component
     }
 }
 ```
-The PHP code is located at 'resources/views/components/HomePageHeader.php'
+The PHP code is located at ```resources/views/components/HomePageHeader.php```
