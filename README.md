@@ -245,3 +245,6 @@ File: ``` resources/views/components/layout.blade.php ```
     </div>
 </body>
 ```
+
+## Layout.php
+The file is located at ```View/Components/Layout.php``` and is responsible for the ```layout.blade.php``` view file.
