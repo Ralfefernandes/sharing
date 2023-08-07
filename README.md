@@ -681,5 +681,6 @@ class HomepageController extends Controller
 ## Caption: Laravel Debug Output: Header Data Fetched from Pimcore
 
 In the screenshot titled 'Laravel Debug Output: Header Data Fetched from Pimcore,' you can see the data fetched by Laravel from Pimcore, which includes information about images, titles, and the 'Offerte' button.
-![Alt text]( "Data Fetched from Pimcore")
+![Alt te![Screenshot from 2023-08-07 03-00-04](https://github.com/Ralfefernandes/sharing/assets/12101478/a3388f5c-bd36-45b9-9e0d-e23f7e504eb4)
+xt]( "Data Fetched from Pimcore")
 
