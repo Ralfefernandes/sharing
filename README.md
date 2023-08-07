@@ -165,7 +165,7 @@ class HomePageHeader extends Component
 The PHP code is located at ```resources/views/components/HomePageHeader.php```
 
 ## Laravel Layout Blade HTML Code
-File: ``` resources/views/layouts/app.blade.php ```
+File: ``` resources/views/components/layout.blade.php ```
 ```
 <body>
     <div id="canvas">
